@@ -1,14 +1,2 @@
-## Founder
-
-Name: [name]
-Role: [role]
-
-## Team Member 1
-
-Name: [name]
-Role: [role]
-
-## Team Member 2
-
-Name: [name]
-Role: [role]
+The TRONbet team is comprised of an international team of blockchain enthusiasts who have been following the evolution of this revolutionary technology.  With years of experience in developing smart contracts, designing and developing browser and mobile games, the TRONbet team will fully support TRON’s vision for a fully decentralized web. 
+We are continuously looking for new team members to join our mission.  If you are interested in helping the TRONbet community please join our Telegram and contact our Admin.
